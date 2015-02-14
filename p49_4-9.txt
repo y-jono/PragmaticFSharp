@@ -1,0 +1,8 @@
+P.82 リスト4-9
+> let modEx x y = if y <> 0 then x / y else 0 ;;
+
+' mono
+val modEx : int -> int -> int
+ 
+' book
+val f : int -> int
